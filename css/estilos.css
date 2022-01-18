@@ -11,6 +11,10 @@ body{
     border: 1px solid #fff;
     background: #fff;
     width: 70%;
+    padding: 25px;
+}
+.caja p{
+    text-align: justify;
 }
 .caja h1{
     color: violet;

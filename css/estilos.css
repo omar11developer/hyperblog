@@ -4,3 +4,14 @@ body{
     background: #f2f2f2;
     
 }
+
+.caja{
+    
+   
+    border: 1px solid #fff;
+    background: #fff;
+    width: 70%;
+}
+.caja h1{
+    color: violet;
+}

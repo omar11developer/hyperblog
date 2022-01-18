@@ -10,12 +10,22 @@ body{
    
     border: 1px solid #fff;
     background: #fff;
+<<<<<<< HEAD
     width: 70%;
     padding: 25px;
 }
 .caja p{
     text-align: justify;
+=======
+    
+>>>>>>> cabecera
 }
 .caja h1{
     color: violet;
+}
+.cabecera{
+    background: rgb(13, 94, 165);
+    padding: 15px;
+    color: #fff;
+    text-align: left;
 }
